@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Futura Book';
-  src: url("../fontsuturauturaBookC.woff") format("woff"), url("../fontsuturauturaBookC.woff2") format("woff");
+  src: url("../fonts/futura/FuturaBookC.woff") format("woff"), url("../fonts/futura/FuturaBookC.woff2") format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: wrap; }
@@ -380,6 +380,8 @@ template {
   .hero__text {
     font-size: 22px;
     min-width: 500px; }
+  .hero__button {
+    margin-right: 20px; }
   .hero__instagram {
     position: absolute;
     left: 0;
